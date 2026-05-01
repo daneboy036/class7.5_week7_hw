@@ -1,3 +1,3 @@
 output "vpc_name" {
-  value = "week7-basic"
+  value = google_compute_network.vpc_network.name
 }
