@@ -19,6 +19,7 @@ This week's homework will cover creating a new repository in GitHub as well as c
 - [x] Proof of VPC Created
       ![Proof of VPC Created](./screenshots/gcp-vpc.png)
 - [x] [Creating a GitHub Repository](./docs/github-walkthrough.md)
+- [x] [Documentation Used and Resources](./docs/documentation-and-resources.md)
 
 # Walkthroughs and Notes
 
