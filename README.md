@@ -18,6 +18,7 @@ This week's homework will cover creating a new repository in GitHub as well as c
       ![Proof of Terraform Apply](./screenshots/terraform-apply.png)
 - [x] Proof of VPC Created
       ![Proof of VPC Created](./screenshots/gcp-vpc.png)
+- [x] [Creating a GitHub Repository](./docs/github-walkthrough.md)
 
 # Walkthroughs and Notes
 
